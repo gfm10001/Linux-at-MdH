@@ -1,4 +1,7 @@
 
+NB: drbx id: gfm10001.linux@millestugan.se s5x1
+
+
 Hämta med:
 git clone https://github.com/gfm10001/Linux-at-MdH.git
 
