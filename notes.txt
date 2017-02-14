@@ -9,7 +9,7 @@ Läggg till filer med:
 git add *
 
 Uppdatera lokalt:
-git commit -m "Commit message"
+git commit -m "Commit message" or ??? git commit -am "Commit message"
 
 Uppdatera server med:
 git push origin master
