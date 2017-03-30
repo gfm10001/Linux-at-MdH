@@ -39,6 +39,10 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 notes.txt
 
 
+Kör sedan:
+./Dropbox-Install.sh
+OBS - brukar inte funka utan man måste ta raderna manuellt!
+
 Tips på pgm:
 Terminal
 System Monitor
