@@ -35,3 +35,9 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 notes.txt
 
 
+Tips på pgm:
+Terminal
+System Monitor
+gedit
+
+
